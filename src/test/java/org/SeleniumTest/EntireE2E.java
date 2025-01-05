@@ -27,6 +27,8 @@ public class EntireE2E extends BaseTest {
         Assert.assertTrue(match);
         Checkoutpage checkoutpage = cartPage.Checkout();
         checkoutpage.ClickOnCountry("India", "India");
+        System.out.println("Git working check");
+        System.out.println("Git working check");
 
            /* ConformationPage conformationPage = checkoutpage.SubmtitOrder();
             String conformmessage = conformationPage.GetConfimationMessage();
