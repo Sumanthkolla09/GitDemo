@@ -28,6 +28,7 @@ public class EntireE2E extends BaseTest {
         Checkoutpage checkoutpage = cartPage.Checkout();
         checkoutpage.ClickOnCountry("India", "India");
         System.out.println("To Understand the branches concept");
+        System.out.println("Learned the concept of branches in Git");
         
 
 
