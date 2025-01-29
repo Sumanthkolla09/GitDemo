@@ -29,6 +29,8 @@ public class EntireE2E extends BaseTest {
         checkoutpage.ClickOnCountry("India", "India");
         System.out.println("To Understand the branches concept");
         System.out.println("Learned the concept of branches in Git");
+        System.out.println("Latest Changes");
+
         
 
 
