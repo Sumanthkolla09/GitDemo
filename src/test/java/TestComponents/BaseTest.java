@@ -23,6 +23,7 @@ import java.util.List;
 import java.util.Properties;
 
 public class BaseTest {
+
     public WebDriver driver;
     public Landingpage landingpage;
 
